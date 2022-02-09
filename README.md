@@ -1,4 +1,7 @@
-### Hi there \ hola mundo 👋
+### Hi there \ hola mundo 👋 
+![image](https://user-images.githubusercontent.com/80436392/153304535-484ef5b7-bdd3-455d-981a-78828a464e39.png)
+
+![image](https://user-images.githubusercontent.com/80436392/153304670-28cee6dd-1e02-4e60-bb32-0146e1eea870.png)
 
 <!--
 **rolandoarellano69/rolandoarellano69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Cool: ...
 --> 
 
-![](descargas/cooltext404052973466730.PNG)
+
 
 Horario 
 | Hr   | Lunes                    | Martes                   | Miercoles                |  Jueves                  | Viernes                  |
