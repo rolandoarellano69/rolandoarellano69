@@ -10,7 +10,6 @@ PAGINA OFICIAL DE ITT
 <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="210" height="200" />
 
 
-![image](https://user-images.githubusercontent.com/80436392/153304670-28cee6dd-1e02-4e60-bb32-0146e1eea870.png)
 
 <!--
 **rolandoarellano69/rolandoarellano69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
