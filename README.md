@@ -2,7 +2,7 @@
 PAGINA OFICIAL DE ITT
 !https://tijuana.tecnm.mx/
 
-## HOLA SOY ROLANDO ARELLANO ESTUDIANTE DE INGENERIA DE SISTEMAS, ACTUALEMNTE SOY PROGRAMADOR JR🐱‍👤👨‍🎤📲🖥💻™
+## HOLA SOY ROLANDO ARELLANO EGRESADO DE INGENERIA DE SISTEMAS, ACTUALEMNTE SOY PROGRAMADOR JR🐱‍👤👨‍🎤📲🖥💻™
 
 #### Me gusta el desarrollo web, las nuevas tecnologias de informacion y conversar 👽
 
