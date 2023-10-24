@@ -1,15 +1,8 @@
-### Hi there \ hola mundo 👋 
-PAGINA OFICIAL DE ITT
-!https://tijuana.tecnm.mx/
+
 
 ## HOLA SOY ROLANDO ARELLANO EGRESADO DE INGENERIA DE SISTEMAS, ACTUALEMNTE SOY PROGRAMADOR JR🐱‍👤👨‍🎤📲🖥💻™
 
-#### Me gusta el desarrollo web, las nuevas tecnologias de informacion y conversar 👽
-
-### me gustan los gatos y los perros 
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="210" height="200" />
-
-
+#### Me interesa el desarrollo web, UI/UIX 👽
 
 <!--
 **rolandoarellano69/rolandoarellano69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
